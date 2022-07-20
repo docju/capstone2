@@ -43,7 +43,7 @@ Download or link to the Capstone2.ipynb file and run in a suitable environment s
 
 
 ## Files
-Repository is found [_here_] (https://github.com/docju/capstone2)
+Repository is found [_here_](https://github.com/docju/capstone2).
 There are 3 files in the repository: this README, the  python notebook, and the data file mentioned above.
 
 
