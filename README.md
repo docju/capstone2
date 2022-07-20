@@ -42,7 +42,7 @@ We can use the content of the message to build an NLP model to determine whether
 Download or link to the Capstone2.ipynb file and run in a suitable environment such as Jupyter lab or Zeppelin. It requires no extra software.
 
 
-##Files
+## Files
 There are 3 files in the repository: this README, the  python notebook, and the data file mentioned above.
 
 
