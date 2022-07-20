@@ -7,7 +7,7 @@ Spam classification
 Spam SMS text messages are a nuisance and filtering them out to ensure that phone users are not distracted by unnecessary and annoying texts will enhance the customer's user experience.
 
 This project seeks to build a NLP model to show how we can filter out such messages.
-> Blog post with findings [_here_](https://medium.com/@andrewstothers/baywheels-smooth-ride-or-bumps-in-the-eef272a0ccf8). 
+> Blog post with findings [_here_](https://medium.com/@andrewstothers/can-we-filter-out-spam-sms-texts-without-keeping-genuine-ones-5a9bbf126ce5). 
 
 ## Table of Contents
 * [General Information](#general-information)
